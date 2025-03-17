@@ -1,7 +1,7 @@
 # Incredible OS - Android 13 (One UI 5.1) for Samsung Galaxy M30S
 
 <p align="center">
-  <img src="images/IncredibleOS For Galaxy M30sUI5.png" alt="Incredible OS Banner" width="100%">
+  <img src="images/IncredibleOS For Galaxy M30sUI5.png" alt="Incredible OS Banner" width="400px" height="400px">
 </p>
 
 ## Overview
@@ -22,7 +22,7 @@ Samsung may have abandoned software support for the Galaxy M30S, but that doesn'
 ---
 
 ## 📦 Download
-IncredibleOS is Finally Available for Download [Click Here](https://drive.google.com/file/d/1q99CK4kRSzJuu4FVQ4kmQWi6WLDLg3vM/view?usp=sharing)
+IncredibleOS is Finally Available for Download (Dont Forget to Hit the thanks Button on XDA !!) [Click Here]([https://drive.google.com/file/d/1q99CK4kRSzJuu4FVQ4kmQWi6WLDLg3vM/view?usp=sharing](https://xdaforums.com/t/rom-13-one-ui-5-1-stable-incredible-os-v2-for-galaxy-m30s.4725635/)) 
 
 ---
 
@@ -63,7 +63,7 @@ IncredibleOS is Finally Available for Download [Click Here](https://drive.google
 ---
 
 ## 📓 Flashing Guide
-👨🏻‍💻 **XDA Thread:** [Click Here](https://xdaforums.com/t/rom-13-oneui-5-1-stable-incredible-os-for-m30s.4718976/) Also, don’t forget to hit the Thanks Button on XDA Forums.  
+👨🏻‍💻 **XDA Thread:** [Click Here](https://xdaforums.com/t/rom-13-one-ui-5-1-stable-incredible-os-v2-for-galaxy-m30s.4725635/) Also, don’t forget to hit the Thanks Button on XDA Forums.  
 📽 **Screenshots:** [Click here for Some Spoilers](https://t.me/incredibleOSChat/12)
 
 ### Prerequisites
@@ -97,4 +97,3 @@ IncredibleOS is Finally Available for Download [Click Here](https://drive.google
 
 🚀 **Experience the future of the M30S with Incredible OS – because great devices deserve great software!** 🚀
 
-# incredibleOS-A13-m30s
