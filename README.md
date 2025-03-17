@@ -22,7 +22,9 @@ Samsung may have abandoned software support for the Galaxy M30S, but that doesn'
 ---
 
 ## 📦 Download
-IncredibleOS is Finally Available for Download (Dont Forget to Hit the thanks Button on XDA !!) [Click Here]([https://drive.google.com/file/d/1q99CK4kRSzJuu4FVQ4kmQWi6WLDLg3vM/view?usp=sharing]) 
+## 📦 Download
+IncredibleOS is Finally Available for Download (Don't Forget to Hit the thanks Button on XDA !!) [Click Here](https://xdaforums.com/t/rom-13-one-ui-5-1-stable-incredible-os-v2-for-galaxy-m30s.4725635/)
+
 
 ---
 
