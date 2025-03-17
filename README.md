@@ -1,8 +1,7 @@
 # Incredible OS - Android 13 (One UI 5.1) for Samsung Galaxy M30S
 
 <p align="center">
-  <img src="images/![IncredibleOS For Galaxy M30sUI5](https://github.com/user-attachments/assets/df908d71-14f8-404e-9656-1812623c4bea)
-.png" alt="Incredible OS Banner" width="100%">
+  <img src="images/IncredibleOS For Galaxy M30sUI5.png" alt="Incredible OS Banner" width="100%">
 </p>
 
 ## Overview
